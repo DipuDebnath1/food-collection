@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "about": "Delicious cheesy pizza with your choice of toppings.",
+        "image": "https://img.freepik.com/free-photo/side-view-pizza-with-chopped-pepper-board-cookware_176474-3183.jpg",
+        "price": 10.99
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "about": "Classic beef burger with lettuce, tomato, and pickles.",
+        "image": "https://img.freepik.com/free-photo/delicious-burger-with-many-ingredients-isolated-white-background-tasty-cheeseburger-splash-sauce_90220-1266.jpg",
+        "price": 5.99
+    },
+    {
+        "id": 3,
+        "name": "Spaghetti Carbonara",
+        "about": "Creamy pasta with bacon, eggs, and Parmesan cheese.",
+        "image": "https://img.freepik.com/free-photo/bowl-noodle-trivet-tomatoes-lemon-garlic-marble-surface_114579-91260.jpg",
+        "price": 12.49
+    },
+    {
+        "id": 4,
+        "name": "Sushi Platter",
+        "about": "Assorted sushi rolls with fresh seafood and soy sauce.",
+        "image": "https://img.freepik.com/free-photo/sushi-set-with-hot-cold-rolls-wood-platter_140725-1625.jpg",
+        "price": 18.99
+    },
+    {
+        "id": 5,
+        "name": "Chicken Tacos",
+        "about": "Tasty chicken tacos with salsa and guacamole.",
+        "image": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg",
+        "price": 7.99
+    },
+    {
+        "id": 6,
+        "name": "Salad",
+        "about": "Fresh garden salad with mixed greens and balsamic vinaigrette.",
+        "image": "https://img.freepik.com/free-photo/top-view-tasty-salad-with-vegetables_23-2148515491.jpg",
+        "price": 4.99
+    }
+   
+]

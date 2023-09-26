@@ -1,0 +1,44 @@
+[
+    {
+        "id": 7,
+        "name": "Steak",
+        "about": "Juicy ribeye steak cooked to perfection with garlic butter.",
+        "image": "https://img.freepik.com/free-photo/grilled-beef-steak-with-fries-grilled-tomato-pepper-sauces_140725-10545.jpg",
+        "price": 15.99
+    },
+    {
+        "id": 8,
+        "name": "Sushi Bowl",
+        "about": "Sushi rice bowl with tuna, avocado, and spicy mayo.",
+        "image": "https://img.freepik.com/free-photo/side-view-mix-sushi-rolls-tray-with-ginger-wasabi_141793-14242.jpg",
+        "price": 14.49
+    },
+    {
+        "id": 9,
+        "name": "Pasta Alfredo",
+        "about": "Creamy Alfredo pasta with grilled chicken and broccoli.",
+        "image": "https://img.freepik.com/free-photo/fettuccine-with-chicken-cream-sauce-mint-side-view_141793-3106.jpg",
+        "price": 11.99
+    },
+    {
+        "id": 10,
+        "name": "Chocolate Cake",
+        "about": "Decadent chocolate cake with a rich chocolate ganache.",
+        "image": "https://img.freepik.com/premium-photo/delicious-chocolate-cake-with-dark-chocolate-icing_665569-889.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 11,
+        "name": "Penne Primavera",
+        "about": "Penne pasta with mixed vegetables in a light cream sauce.",
+        "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19737.jpg",
+        "price": 10.49
+    },
+    {
+        "id": 12,
+        "name": "Chocolate Fondue",
+        "about": "Assorted fruits and marshmallows for dipping in warm chocolate.",
+        "image": "https://img.freepik.com/premium-photo/chocolate-fondue-with-strawberries-other-fruit-dipping-created-with-generative-ai_419341-33049.jpg",
+        "price": 8.99
+    }
+]
